@@ -14,7 +14,7 @@ I'm [BoyaConf](https://boyaconf.com/) Co-Founder & Co-Organizer ✌🏼 and... I
 
 Always give a little more!
 
-#Skills
+# Skills
 
 [![Android](https://img.shields.io/badge/Android-white?style=for-the-badge&logo=android&logoColor=fff&color=616161)](https://www.android.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=fff&color=616161)](https://kotlinlang.org/)
