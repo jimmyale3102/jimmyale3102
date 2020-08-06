@@ -25,4 +25,4 @@ Always give a little more!
 [![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=fff&color=616161)](https://www.w3schools.com/css/css_intro.asp)
 [![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=fff&color=616161)](https://www.javascript.com/)
 
-![Jimmy's github stats](https://github-readme-stats.vercel.app/api?username=jimmyale3102&show_icons=true&theme=radical&bg_color=616161)
+![Jimmy's github stats](https://github-readme-stats.vercel.app/api?username=jimmyale3102&show_icons=true&theme=radical&bg_color=424242&icon_color=424242&icon_color=424242)
