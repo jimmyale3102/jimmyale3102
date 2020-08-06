@@ -14,4 +14,7 @@ I'm [BoyaConf](https://boyaconf.com/) Co-Founder & Co-Organizer ✌🏼 and... I
 
 Always give a little more!
 
+#Skills
+[![Kotlin](https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=fff&color=616161)]
+
 ![Jimmy's github stats](https://github-readme-stats.vercel.app/api?username=jimmyale3102&show_icons=true&theme=radical)
