@@ -1,3 +1,7 @@
+<p>
+	<a href="https://github.com/jimmyale3102"><img src="https://img.shields.io/github/followers/jimmyale3102.svg?label=GitHub&style=social" alt="GitHub"></a>
+</p>
+
 # 👋 Hi There World!
 
 I'm Jimmy and I'm from [Colombia-co](https://www.google.com/maps/place/Colombia/@4,-72z/)
