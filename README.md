@@ -14,4 +14,4 @@ I'm [BoyaConf](https://boyaconf.com/) Co-Founder & Co-Organizer ✌🏼 and... I
 
 Always give a little more!
 
-[website](https://twitter.com/jimmyale3201)
+![Jimmy's github stats](https://github-readme-stats.vercel.app/api?username=jimmyale3102&show_icons=true&theme=radical)
