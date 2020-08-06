@@ -1,5 +1,6 @@
 <p>
 	<a href="https://github.com/jimmyale3102"><img src="https://img.shields.io/github/followers/jimmyale3102.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/https://twitter.com/jimmyale3201"><img src="https://img.shields.io/twitter/follow/jimmyale3201?label=Twitter&style=social" alt="Twitter"></a>
 </p>
 
 # 👋 Hi There World!
