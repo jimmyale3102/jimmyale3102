@@ -5,8 +5,8 @@
 
 # 👋 Hi There World!
 
-I'm Jimmy and I'm from [Colombia-co](https://www.google.com/maps/place/Colombia/@4,-72z/)
-I'm actually 💻 studying computer science 👨‍💻... I'm a passionate Android Developer and i always want to learn more and more!
+I’m Jimmy! I’m from [Colombia-co](https://www.google.com/maps/place/Colombia/@4,-72z/)
+I’m currently 💻 studying computer science 👨‍💻... My occupation is Android Developer. I’m passionate in my work and am always eager to learn more!
 
 I'm [BoyaConf](https://boyaconf.com/) Co-Founder & Co-Organizer ✌🏼 and... I'd like you all to meet my closer developer friends
 
