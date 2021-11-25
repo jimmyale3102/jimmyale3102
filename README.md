@@ -26,5 +26,5 @@ Always give a little more!
 [![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=fff&color=424242)](https://www.javascript.com/)
 [![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=fff&color=424242)](https://www.python.org/)
 
-[![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmyale3102)]
+[![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmyale3102&show_icons=true&theme=radical&bg_color=424242&icon_color=fff&title_color=fff&text_color=fff)]
 
