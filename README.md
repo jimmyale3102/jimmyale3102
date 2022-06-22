@@ -2,7 +2,7 @@
 
 # Hi there 👋, My name is Jimmy Alejandro
 
-<img width="100%" src="https://github-profile-page-creator.netlify.app/github-header/blob/main/github-header-image.png" alt="my banner">
+<img width="100%" src="https://github.com/jimmyale3102/github-header/blob/main/github-header-image.png" alt="my banner">
 
 I’m from Colombia-co I’m currently 💻 Software engineer 👨‍💻... My occupation is Android Developer. I’m passionate in my work and am always eager to learn more!
 
