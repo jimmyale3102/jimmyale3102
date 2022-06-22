@@ -45,7 +45,7 @@ I'm BoyaConf Co-Founder & Co-Organizer ✌🏼
 
 ## 📊 Github Status
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=jimmyale3102"&show_icons=true&theme=radical&bg_color=424242&icon_color=fff&title_color=fff&text_color=fff><p>
+<p><img src="https://activity-graph.herokuapp.com/graph?username=jimmyale3102&show_icons=true&theme=radical&bg_color=121212&icon_color=fff&title_color=fff&text_color=ffff"><p>
 
 <p><img src="[https://github-readme-stats.vercel.app/api?username=jimmyale3102&show_icons=true](https://github-readme-stats.vercel.app/api?username=jimmyale3102&show_icons=true&theme=radical&bg_color=424242&icon_color=fff&title_color=fff&text_color=fff)"><p>
 
