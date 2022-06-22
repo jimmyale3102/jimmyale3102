@@ -40,18 +40,18 @@ I'm BoyaConf Co-Founder & Co-Organizer ✌🏼
 
 ## 🏆 GitHub Trophies
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=jimmyale3102">
+<p><img src="https://github-profile-trophy.vercel.app/?username=jimmyale3102&show_icons=true&theme=radical&bg_color=121212&icon_color=fff&title_color=fff&text_color=ffff">
 </p>
 
 ## 📊 Github Status
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=jimmyale3102&show_icons=true&theme=radical&bg_color=121212&icon_color=fff&title_color=fff&text_color=ffff"><p>
+<p><img src="https://activity-graph.herokuapp.com/graph?username=jimmyale3102&show_icons=true&theme=radical&bg_color=424242&icon_color=fff&title_color=fff&text_color=fff"><p>
 
-<p><img src="[https://github-readme-stats.vercel.app/api?username=jimmyale3102&show_icons=true](https://github-readme-stats.vercel.app/api?username=jimmyale3102&show_icons=true&theme=radical&bg_color=424242&icon_color=fff&title_color=fff&text_color=fff)"><p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=jimmyale3102&show_icons=true&show_icons=true&theme=radical&bg_color=424242&icon_color=fff&title_color=fff&text_color=fff"><p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyale3102&layout=compact&show_icons=true&theme=radical&bg_color=424242&icon_color=fff&title_color=fff&text_color=fff"><p>
 
-<p><img src="https://metrics.lecoq.io/jimmyale3102&show_icons=true&theme=radical&bg_color=424242&icon_color=fff&title_color=fff&text_color=fff"><p>
+<p><img src="https://metrics.lecoq.io/jimmyale3102"><p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jimmyale3102&show_icons=true&theme=radical&bg_color=424242&icon_color=fff&title_color=fff&text_color=fff"><p>
 
