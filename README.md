@@ -4,23 +4,25 @@
 
 I’m from Colombia-co I’m currently 💻 Software engineer 👨‍💻... My occupation is Android Developer. I’m passionate in my work and am always eager to learn more!
 
-I'm BoyaConf Co-Founder & Co-Organizer ✌🏼
+I'm [BoyaConf](https://boyaconf.com/) Co-Founder & Co-Organizer ✌🏼
 
 ## 💫 Liitle Bit More About Me
 <p>👯 I want to collaborate on Android projects</p>
-<p>💬 Ask me about Android</p>
+<p>💬 Ask me about what you want, and about Android of course</p>
 <p>📫 How to reach me? jimmyale3102@gmail.com</p>
 <p>⚡ Fun Fact: I love to dance</p>
+Always give a little more!
 
 ## 💻 Skills
-<p>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
-</p>
+[![Android](https://img.shields.io/badge/Android-white?style=for-the-badge&logo=android&logoColor=fff&color=424242)](https://www.android.com/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=fff&color=424242)](https://kotlinlang.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=firebase&logoColor=fff&color=424242)](https://firebase.google.com/)
+[![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=fff&color=424242)](https://git-scm.com/)
+[![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=fff&color=424242)](https://www.java.com)
+[![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=fff&color=424242)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=fff&color=424242)](https://www.w3schools.com/css/css_intro.asp)
+[![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=fff&color=424242)](https://www.javascript.com/)
+[![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=fff&color=424242)](https://www.python.org/)
 
 ## 👥 Connect With Me
 <p>
