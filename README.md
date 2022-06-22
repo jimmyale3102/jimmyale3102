@@ -45,14 +45,14 @@ I'm BoyaConf Co-Founder & Co-Organizer ✌🏼
 
 ## 📊 Github Status
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=jimmyale3102"><p>
+<p><img src="https://activity-graph.herokuapp.com/graph?username=jimmyale3102"&show_icons=true&theme=radical&bg_color=424242&icon_color=fff&title_color=fff&text_color=fff><p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=jimmyale3102&show_icons=true"><p>
+<p><img src="[https://github-readme-stats.vercel.app/api?username=jimmyale3102&show_icons=true](https://github-readme-stats.vercel.app/api?username=jimmyale3102&show_icons=true&theme=radical&bg_color=424242&icon_color=fff&title_color=fff&text_color=fff)"><p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyale3102&layout=compact"><p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyale3102&layout=compact&show_icons=true&theme=radical&bg_color=424242&icon_color=fff&title_color=fff&text_color=fff"><p>
 
-<p><img src="https://metrics.lecoq.io/jimmyale3102"><p>
+<p><img src="https://metrics.lecoq.io/jimmyale3102&show_icons=true&theme=radical&bg_color=424242&icon_color=fff&title_color=fff&text_color=fff"><p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jimmyale3102"><p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jimmyale3102&show_icons=true&theme=radical&bg_color=424242&icon_color=fff&title_color=fff&text_color=fff"><p>
 
-<p><img src="https://visitcount.itsvg.in/api?id=jimmyale3102&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
+<p><img src="https://visitcount.itsvg.in/api?id=jimmyale3102&label=Profile%20Views&color=12&icon=5&pretty=true&show_icons=true&theme=radical&bg_color=424242&icon_color=fff&title_color=fff&text_color=fff"><p>
