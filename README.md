@@ -4,7 +4,7 @@
 
 I’m from Colombia-co I’m currently 💻 Software engineer 👨‍💻... My occupation is Android Developer. I’m passionate in my work and am always eager to learn more!
 
-I'm [BoyaConf](https://boyaconf.com/) Co-Founder & Co-Organizer ✌🏼
+I'm [Boyacá Dev](https://boyaca-dev.org/) Co-Founder & Co-Organizer ✌🏼
 
 ## 💫 Liitle Bit More About Me
 <p>👯 I want to collaborate on Android projects</p>
