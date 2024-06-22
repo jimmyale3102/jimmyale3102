@@ -36,3 +36,5 @@ I'm [Boyacá Dev](https://boyaca-dev.org/) Co-Founder & Co-Organizer ✌🏼
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=jimmyale3102&show_icons=true&show_icons=true&theme=radical&bg_color=424242&icon_color=fff&title_color=fff&text_color=fff"><p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jimmyale3102&show_icons=true&theme=radical&bg_color=424242&icon_color=fff&title_color=fff&text_color=fff"><p>
+<p><img src="https://visitcount.itsvg.in/api?id=jimmyale3102&label=Profile%20Views&color=12&icon=5&pretty=true&show_icons=true&theme=radical&bg_color=424242&icon_color=fff&title_color=fff&text_color=fff"><p>
+
