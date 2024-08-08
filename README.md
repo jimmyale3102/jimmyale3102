@@ -1,7 +1,9 @@
-# Hi there 👋, 
-# I am Jimmy Alejandro
+# Hi there 👋, </br> I am Jimmy Alejandro
 
-I’m a Software Engineer from Colombia-CO 💻 I am a passionate Android Developer. 👨‍💻 Committed to continuous skill enhancement and staying updated with the latest technologies.
+I’m a Software Engineer from Colombia-CO [🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/) and a passionate Android Developer. 👨‍💻 Committed to continuous skill enhancement and staying updated with the latest technologies. 💻
+I am eager to expand my knowledge of new technologies and keep up to date with the
+latest terminology in the field so as to contribute to the fast-paced world of technological
+advancements.
 
 I'm [Boyacá Dev](https://boyaca-dev.org/) Co-Organizer ✌🏼
 
@@ -12,7 +14,7 @@ I'm [Boyacá Dev](https://boyaca-dev.org/) Co-Organizer ✌🏼
 [![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=fff&color=424242)](https://git-scm.com/)
 [![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=fff&color=424242)](https://www.java.com)
 [![Swift](https://img.shields.io/badge/Swift-white?style=for-the-badge&logo=swift&logoColor=fff&color=424242)](https://developer.apple.com/swift/)
-[![SwiftUI](https://img.shields.io/badge/Swift-white?style=for-the-badge&logo=swift&logoColor=fff&color=424242)](https://developer.apple.com/xcode/swiftui/)
+[![Swift UI](https://img.shields.io/badge/Swift_UI-white?style=for-the-badge&logo=swift&logoColor=fff&color=424242)](https://developer.apple.com/xcode/swiftui/)
 [![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=fff&color=424242)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=fff&color=424242)](https://www.w3schools.com/css/css_intro.asp)
 [![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=fff&color=424242)](https://www.javascript.com/)
