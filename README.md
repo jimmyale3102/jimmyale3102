@@ -1,9 +1,9 @@
 # Hi there 👋, </br> I am Jimmy Alejandro
 
-I’m a Software Engineer from Colombia-CO [🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/) and a passionate Android Developer. 👨‍💻 Committed to continuous skill enhancement and staying updated with the latest technologies 💻 in the field so as to contribute to the fast-paced world of technological
+I’m a Software Engineer from [Colombia-CO 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/) and a passionate Android Developer. 👨‍💻 Committed to continuous skill enhancement and staying updated with the latest technologies 💻 in the field so as to contribute to the fast-paced world of technological
 advancements.
 
-I'm [Boyacá Dev](https://boyaca-dev.org/) Co-Organizer ✌🏼
+I'm a [Boyacá Dev](https://boyaca-dev.org/) Co-Organizer ✌🏼
 
 ### 💻 Skills
 [![Android](https://img.shields.io/badge/Android-white?style=for-the-badge&logo=android&logoColor=fff&color=424242)](https://www.android.com/)
