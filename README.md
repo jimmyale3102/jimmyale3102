@@ -30,6 +30,4 @@ I'm a [Boyacá Dev](https://boyaca-dev.org/) Co-Organizer ✌🏼
 
 ### 📊 Github Status
 <img src="https://github-readme-stats.vercel.app/api?username=jimmyale3102&show_icons=true&count_private=true&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Stats/Statistics" align="top"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jimmyale3102&show_icons=true&layout=compact&hide=java&title_color=afc2ef&icon_color=afc2ef&theme=react">
-<img src="https://visitcount.itsvg.in/api?id=jimmyale3102&label=Profile%20Views&color=12&icon=5&pretty=true&show_icons=true&layout=compact&hide=java&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="Profile views">
 
