@@ -1,4 +1,4 @@
-# Hi there 👋, </br> I am Jimmy Alejandro
+# Hi there 👋, </br> I am Jimmy
 
 I’m a Software Engineer from [Colombia-CO 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/) and a passionate Android Developer. 👨‍💻 Committed to continuous skill enhancement and staying updated with the latest technologies 💻 in the field so as to contribute to the fast-paced world of technological
 advancements.
